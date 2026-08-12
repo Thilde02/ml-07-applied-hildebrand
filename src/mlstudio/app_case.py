@@ -3,7 +3,7 @@
 An example of a supervised regression case.
 This app is used to verify project workflow.
 
-Author: Denise Case
+Author: Tiffany Hildebrand
 Date: 2026-06
 
 Process:

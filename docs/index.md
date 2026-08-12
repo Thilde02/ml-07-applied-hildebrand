@@ -8,7 +8,7 @@ Use the documentation navigation to explore.
 Many instructions are common to all our projects.
 
 See
-[⭐ **Workflow: Apply Example**](https://denisecase.github.io/pro-analytics-02/workflow-b-apply-example-project/)
+[⭐ **Workflow: Apply Example**](https://Thilde02.github.io/pro-analytics-02/workflow-b-apply-example-project/)
 to get the example projects running on your machine.
 
 ## Project Documentation Pages (docs/)

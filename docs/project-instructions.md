@@ -6,7 +6,7 @@ The first few times, it feels like a lot, but it gets better.
 ## WEDNESDAY: Complete Workflow Phases 1-3
 
 Follow
-[⭐ **Workflow: Apply Example**](https://denisecase.github.io/pro-analytics-02/workflow-b-apply-example-project/)
+[⭐ **Workflow: Apply Example**](https://Thilde02.github.io/pro-analytics-02/workflow-b-apply-example-project/)
 to complete:
 
 1. Phase 1. **Start & Run** - copy the project and confirm it runs
