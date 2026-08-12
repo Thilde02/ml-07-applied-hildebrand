@@ -1,24 +1,28 @@
-"""app_case.py - example.
+"""app_hildebrand.py - Tiffany's Phase 4 example.
 
-An example of a supervised regression case.
-This app is used to verify project workflow.
+An example of a supervised regression case modified from the
+Module 7 working example.
 
-Author: Denise Case
-Date: 2026-06
+Author: Tiffany Hildebrand
+Date: 2026-08
 
 Process:
-    - Load a CSV dataset.
-    - Train a supervised regression model.
-    - Evaluate model performance.
-    - Predict one new case.
-    - Create useful charts.
+- Load a CSV dataset.
+- Train a supervised regression model.
+- Evaluate model performance.
+- Predict one new case.
+- Create useful charts.
+
+Phase 4 modification:
+- Changed TEST_SIZE from 0.30 to 0.40 to evaluate the model
+  using a larger held-out test set.
 
 Data Source:
 - data/raw/hours_scores_case.csv
 
 Terminal command to run this file from the root project folder:
 
-uv run python -m mlstudio.app_case
+uv run python -m mlstudio.app_hildebrand
 
 OBS:
   Don't edit this file - it should remain a working example.
@@ -83,7 +87,7 @@ FEATURE_COLS: Final[list[str]] = [
 # The model learns from the training records,
 # then we check how well it predicts the test records it did not train on.
 
-TEST_SIZE: Final[float] = 0.30
+TEST_SIZE: Final[float] = 0.40
 RANDOM_STATE: Final[int] = 42
 
 # RANDOM_STATE controls the random split.
